@@ -1,7 +1,7 @@
 
-<p align="left"><font size="5" face="Times New Roman, Times, serif"><strong>PUN, Chi Man </strong></font><font face="Arial, Helvetica, sans-serif"><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
+<p align="left"><strong>PUN, Chi Man </strong></font><font face="Arial, Helvetica, sans-serif"><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
               <font size="2">B.Sc., M.Sc., Ph.D.</font></font></p>
-  <p align="left"><font face="Arial, Helvetica, sans-serif"> <em><font size="3">Associate Professor</font></em><br>
+  <p align="left"><em><font size="3">Associate Professor</font></em><br>
               <br>
               <font size="3">Department of Computer and Information Science<br>
                 Faculty of Science and Technology <br>
@@ -12,7 +12,7 @@
         Telephone:&nbsp;(853) 8822-4369 <br>
         Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (853) 8822-2426 <br>
           E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cmpun@umac.mo">cmpun@umac.mo<br>
-        </a></font></p>
+        </a></p>
 
 <hr>
 <p>Prof. Pun received his B.Sc. and M.Sc. degrees in
