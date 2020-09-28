@@ -6,7 +6,7 @@
 
 <body bgcolor="#FFFFFF">
 <p>&nbsp;</p>
-<table width="772" height="318" border="0">
+<table width="772" height="500" border="0">
   <tr>
     <td width="55">&nbsp;</td>
     <td width="459" height="300"><div align="center">
