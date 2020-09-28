@@ -15,7 +15,7 @@
         Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (853) 8822-2426 <br>
           E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cmpun@umac.mo">cmpun@umac.mo<br>
         </a>
-
+  </p>
 <hr>
 <p>Prof. Pun received his B.Sc. and M.Sc. degrees in
   Software Engineering from the <a href="http://www.umac.mo/" target="_self">University
