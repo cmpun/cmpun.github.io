@@ -32,16 +32,37 @@
 </table>
 <br>
 <hr>
-<p>Prof. Pun received his B.Sc. and M.Sc. 
-  degrees   in Software Engineering from the  <a href="http://www.umac.mo/" target="_self">University 
-  of Macau</a> in 1995 and 1998 respectively, and Ph.D. degree in <a href="http://www.cse.cuhk.edu.hk/" target="_self">Computer 
-  Science and Engineering</a> from the <a href="http://www.cuhk.hk/" target="_self">Chinese 
-  University of Hong Kong</a> in 2002. He  is currently 
-  an Associate Professor and Head of the <a href="http://www.cis.umac.mo" target="_self">Department 
-  of Computer and Information Science</a> of the University of Macau. </font>He has investigated several funded research projects and published more than 100 refereed scientific papers in international journals, books and conference proceedings. Dr. Pun has  served as the General Chair for the 10th &amp;11th International Conference
-Computer Graphics, Imaging and Visualization (<a href="http://www.graphicslink.co.uk/cgiv2013/">CGIV2013</a>, <a href="http://www.graphicslink.co.uk/cgiv2014/">CGIV2014</a>), and program / session chair for several other international conferences. He has also served as the editorial member / referee for many  international journals such as <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Image Processing, Pattern Recognition</em>, etc.  His research interests include Digital Image Processing; Digital Watermarking; Pattern Recognition and Computer Vision; Intelligent Systems and Applications. He is also a senior member of the <a href="http://www.ieee.org">IEEE</a> and a professional member of the <a href="http://acm.org">ACM</a>.</p>
-<p>More information can be found in my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</a>.</p>
-<p>Publications indexed by Google Scholar can be found <a href="http://scholar.google.com/citations?user=JTkP_EAAAAAJ">here</a>.</p>
+<p>Prof. Pun received his B.Sc. and M.Sc. degrees in
+  Software Engineering from the <a href="http://www.umac.mo/" target="_self">University
+  of Macau</a> in 1995 and 1998 respectively, and Ph.D. degree in <a
+  href="http://www.cse.cuhk.edu.hk/" target="_self">Computer Science and
+  Engineering</a> from the <a href="http://www.cuhk.hk/" target="_self">Chinese
+  University of Hong Kong</a> in 2002. He was the Head of the <a
+  href="http://www.cis.umac.mo" target="_self">Department of Computer and
+  Information Science</a> from 2014 to 2019, and is currently an Associate
+  Professor at the Faculty of Science and Technology of the University of Macau.
+  He has investigated several funded research projects as PI and has
+  authored/co-authored more than 200 refereed scientific papers in
+  international journals (including T-PAMI, T-IFS, T-IP, T-DSC and T-KDE) and
+  conferences (including ACM MM, ECCV, AAAI, ICDE, and VR). Dr. Pun has served
+  as the General Chair for the 10th &amp;11th International Conference Computer
+  Graphics, Imaging and Visualization (<a
+  href="http://www.graphicslink.co.uk/cgiv2013/">CGIV2013</a>, <a
+  href="http://www.graphicslink.co.uk/cgiv2014/">CGIV2014</a>), the 13th IEEE
+  International Conference on e-Business Engineering (<a
+  href="https://conferences.computer.org/icebe/2016/index.htm">ICEBE2016</a>),<span
+  style='mso-spacerun:yes'>  </span>and the General Co-Chair for the IEEE
+  International Conference on Visual Communications and Image Processing (<a
+  href="http://www.vcip2020.org/">VCIP2020</a>), and program chair/reviewer for
+  several other international conferences and journals. His research interests
+  include Image Processing and Pattern Recognition; Information Security and
+  Forensic for Multimedia; Adversarial Machine Learning; etc. He is also a
+  senior member of the IEEE.<o:p></o:p></span></p>
+  <p><span lang=EN-US style='font-size:14.0pt'>More information can be found on
+  my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</a>.<o:p></o:p></span></p>
+  <p><span lang=EN-US style='font-size:14.0pt'>Publication list can be found in
+  <a href="https://scholar.google.com/citations?user=JTkP_EAAAAAJ">Google
+  Scholar</a> and <a href="https://orcid.org/0000-0003-1788-3746">ORCID</a>.<o:p></o:p></span></p>
 <hr>
 <p align="right"><a href="http://www.fst.umac.mo" target="_blank"><img src="FST Logo.jpg" width="50" height="58" border="0" align="right"></a><a href="http://www.umac.mo/" target="_blank"><img src="UM_logo.gif" width="234" height="60" border="0" align="right" longdesc="http://www.umac.mo"></a></p>
 </body>
