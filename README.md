@@ -8,10 +8,10 @@
                 University of Macau<br>
           Avenida da Universidade, Taipa, Macau</font></font><font face="Arial, Helvetica, sans-serif"><font size="3"><br>
                   Macau S.A.R., China</font></font></p>
-      <p align="left"><font size="3" face="Arial, Helvetica, sans-serif">Room:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E11-4091<br>
+      Room:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E11-4091<br>
         Telephone:&nbsp;(853) 8822-4369 <br>
         Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (853) 8822-2426 <br>
-          </font><font size="3" face="Arial, Helvetica, sans-serif">E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cmpun@umac.mo">cmpun@umac.mo<br>
+          E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cmpun@umac.mo">cmpun@umac.mo<br>
         </a></font></p>
 
 <hr>
