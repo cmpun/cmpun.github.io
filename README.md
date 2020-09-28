@@ -1,6 +1,7 @@
 
-<p><strong>PUN, Chi Man </strong><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
+<p><font size="4"><strong>PUN, Chi Man </strong><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
               <font size="2">B.Sc., M.Sc., Ph.D. </p>
+  
   <p><em><font size="3">Associate Professor</font></em><br>
               <br>
               <font size="3">Department of Computer and Information Science<br>
