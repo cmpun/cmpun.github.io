@@ -1,6 +1,6 @@
 
 <p><font size="4"><strong>PUN, Chi Man </strong><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
-              <font size="2">B.Sc., M.Sc., Ph.D. </p>
+              <font size="2">B.Sc., M.Sc., Ph.D. 
   
   <p><em><font size="3">Associate Professor</font></em><br>
               <br>
@@ -8,13 +8,13 @@
                 Faculty of Science and Technology <br>
                 University of Macau<br>
           Avenida da Universidade, Taipa, Macau<br>
-                  Macau S.A.R., China </p>
+                  Macau S.A.R., China 
    
    <br><p><font size="3"> Room:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E11-4091<br>
         Telephone:&nbsp;(853) 8822-4369 <br>
         Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (853) 8822-2426 <br>
           E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cmpun@umac.mo">cmpun@umac.mo<br>
-        </a></p>
+        </a>
 
 <hr>
 <p>Prof. Pun received his B.Sc. and M.Sc. degrees in
