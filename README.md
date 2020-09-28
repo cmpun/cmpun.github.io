@@ -1,16 +1,6 @@
 <html>
-<head>
-<title>Prof. Chi Man Pun, University of Macau</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-</head>
 
-<body bgcolor="#FFFFFF">
-<p>&nbsp;</p>
-<table width="772" height="500" border="0">
-  <tr>
-    <td width="55">&nbsp;</td>
-    <td width="459" height="300"><div align="center">
-        <p align="left"><font size="5" face="Times New Roman, Times, serif"><strong>PUN, Chi Man </strong></font><font face="Arial, Helvetica, sans-serif"><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
+<p align="left"><font size="5" face="Times New Roman, Times, serif"><strong>PUN, Chi Man </strong></font><font face="Arial, Helvetica, sans-serif"><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
               <font size="2">B.Sc., M.Sc., Ph.D., SMIEEE, MACM</font></font></p>
   <p align="left"><font face="Arial, Helvetica, sans-serif"> <em><font size="3">Associate Professor</font></em><br>
               <br>
@@ -24,13 +14,7 @@
         Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (853) 8822-2426 <br>
           </font><font size="3" face="Arial, Helvetica, sans-serif">E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cmpun@umac.mo">cmpun@umac.mo<br>
         </a></font></p>
-    </div></td>
-    <td width="55">&nbsp;</td>
-    <td width="185"><p><img src="jpoffice_s2.JPG" width="158" height="198" align="top"></p></td>
-  </tr>
-<tr></tr>
-</table>
-<br>
+
 <hr>
 <p>Prof. Pun received his B.Sc. and M.Sc. degrees in
   Software Engineering from the <a href="http://www.umac.mo/" target="_self">University
@@ -57,12 +41,12 @@
   several other international conferences and journals. His research interests
   include Image Processing and Pattern Recognition; Information Security and
   Forensic for Multimedia; Adversarial Machine Learning; etc. He is also a
-  senior member of the IEEE.<o:p></o:p></span></p>
-  <p><span lang=EN-US style='font-size:14.0pt'>More information can be found on
-  my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</a>.<o:p></o:p></span></p>
-  <p><span lang=EN-US style='font-size:14.0pt'>Publication list can be found in
+  senior member of the IEEE.</p>
+  <p>More information can be found on
+  my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</p>
+  <p>Publication list can be found in
   <a href="https://scholar.google.com/citations?user=JTkP_EAAAAAJ">Google
-  Scholar</a> and <a href="https://orcid.org/0000-0003-1788-3746">ORCID</a>.<o:p></o:p></span></p>
+  Scholar</a> and <a href="https://orcid.org/0000-0003-1788-3746">ORCID</p>
 <hr>
 <p align="right"><a href="http://www.fst.umac.mo" target="_blank"><img src="FST Logo.jpg" width="50" height="58" border="0" align="right"></a><a href="http://www.umac.mo/" target="_blank"><img src="UM_logo.gif" width="234" height="60" border="0" align="right" longdesc="http://www.umac.mo"></a></p>
 </body>
