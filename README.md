@@ -1,4 +1,3 @@
-<html>
 
 <p align="left"><font size="5" face="Times New Roman, Times, serif"><strong>PUN, Chi Man </strong></font><font face="Arial, Helvetica, sans-serif"><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
               <font size="2">B.Sc., M.Sc., Ph.D.</font></font></p>
