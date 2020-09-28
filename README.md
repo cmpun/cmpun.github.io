@@ -45,7 +45,7 @@
   my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</a></p>
   <p>Publication list can be found in
   <a href="https://scholar.google.com/citations?user=JTkP_EAAAAAJ">Google
-  Scholar</a> and <a href="https://orcid.org/0000-0003-1788-3746">ORCID</p>
+  Scholar</a> and <a href="https://orcid.org/0000-0003-1788-3746">ORCID</a></p>
 <hr>
 <p align="right"><a href="http://www.fst.umac.mo" target="_blank"><img src="FST Logo.jpg" width="50" height="58" border="0" align="right"></a><a href="http://www.umac.mo/" target="_blank"><img src="UM_logo.gif" width="234" height="60" border="0" align="right" longdesc="http://www.umac.mo"></a></p>
 
