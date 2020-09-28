@@ -43,7 +43,7 @@
   Forensic for Multimedia; Adversarial Machine Learning; etc. He is also a
   senior member of the IEEE.</p>
   <p>More information can be found on
-  my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</p>
+  my faculty <a href="http://www.fst.umac.mo/en/staff/fstpcm.html">homepage</a></p>
   <p>Publication list can be found in
   <a href="https://scholar.google.com/citations?user=JTkP_EAAAAAJ">Google
   Scholar</a> and <a href="https://orcid.org/0000-0003-1788-3746">ORCID</p>
