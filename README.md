@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Chi Man Pun</title>
+	</head>
+	<body>
 <p><font size="4"><strong>PUN, Chi Man </strong><img src="pcm.gif" alt="Chinese Name" width="73" height="17"><br>
               <font size="2">B.Sc., M.Sc., Ph.D. 
   
@@ -51,3 +56,6 @@
 <hr>
 <p align="right"><a href="http://www.fst.umac.mo" target="_blank"><img src="FST Logo.jpg" width="50" height="58" border="0" align="right"></a><a href="http://www.umac.mo/" target="_blank"><img src="UM_logo.gif" width="234" height="60" border="0" align="right" longdesc="http://www.umac.mo"></a></p>
 
+
+</body>
+</html>
